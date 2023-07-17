@@ -1,3 +1,5 @@
+# Crypto_Clustering.ipymb.ipynb can be found under "Starter Code." 
+
 # CryptoClustering Challenge 19- Use Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 # Starter code was provided, which created df_market_data and a chart indicating price changes over the different intervals for each currency. The data was scaled, then a new column of "Coin_id" was added and indexed creating df_scaled_df.
